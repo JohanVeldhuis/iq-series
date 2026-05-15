@@ -1,6 +1,6 @@
 # Episode 1: Foundry IQ: Unlocking Knowledge for your Agents
 
-[![Episode 1 video](../images/ep1.png)](https://aka.ms/iq-series/episode1)
+[![Episode 1 video](../../images/foundry-iq/ep1.png)](https://aka.ms/iq-series/episode1)
 
 📅 **March 18, 2026 at 9 AM PT** | 📺 [Watch the session](https://aka.ms/iq-series/episode1) | 📂 [Try the cookbook](./cookbook/)
 
@@ -21,7 +21,7 @@ Ayca Bas and Farzad Sunavala walk through the idea of a unified knowledge layer 
 
 A visual summary of key takeaways by Tomomi Imura, showing how Foundry IQ fits into the broader agent architecture.
 
-![Doodle summary Episode 1](../images/visuals/E1-recap.png)
+![Doodle summary Episode 1](../../images/foundry-iq/E1-recap.png)
 
 ## � Try the Cookbook
 

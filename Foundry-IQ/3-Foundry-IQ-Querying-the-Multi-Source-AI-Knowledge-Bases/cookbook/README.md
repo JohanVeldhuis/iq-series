@@ -1,6 +1,6 @@
 # Episode 3 Cookbook: Querying the Multi-Source AI Knowledge Bases
 
-This folder contains the hands-on cookbook and MCP connection guides for Episode 3 of The IQ Series.
+This folder contains the hands-on cookbook and MCP connection guides for Episode 3 of The Foundry IQ Series.
 
 ## 📋 Prerequisites
 
